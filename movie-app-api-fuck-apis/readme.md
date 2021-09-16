@@ -1,0 +1,1 @@
+Heyooo, got an API to work! I believe my issue lies within CORS and HTTPS requirements some API's have. I'll try to get an understanding of those requirements so I can do some more stuff. This is pretty cool!
